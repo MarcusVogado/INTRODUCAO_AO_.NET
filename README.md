@@ -117,7 +117,29 @@ O runtime do .NET é como uma bolha protetora que fornece um ambiente de execuç
 Compila o código intermediário em um formato binário na primeira vez que o programa é executado. O formato binário é específico para a plataforma e a arquitetura (por exemplo, Windows de 64 bits) no computador em que ele está sendo executado.
 Localiza o ponto de entrada do programa e começa a executar cada instrução na sequência apropriada.
 Gerencia os recursos do computador, como memória e acesso à rede. Quando você ouve que o runtime do .NET "gerencia memória", isso significa que ele funciona com o sistema operacional para provisionar memória para seu aplicativo. Quando o aplicativo não precisar mais dos dados armazenados na memória, um recurso de coleta de lixo liberará essa memória de volta para o sistema operacional sem nenhuma instrução do desenvolvedor de software.
-Protege o computador do usuário de softwares potencialmente mal-intencionados. Ele também fornece uma camada de isolamento entre aplicativos.
+Protege o computador do usuário de softwares potencialmente mal-intencionados. Ele também fornece uma camada de isolamento entre aplicativos.<br>
+ 
+ <h4><b>O .NET é para projetos grandes e pequenos<b><h4>
+Você pode se perguntar se o .NET é o ecossistema certo para investir seu tempo. Milhões de desenvolvedores usam o .NET todos os dias para fazer coisas incríveis. Ele fornece ferramentas para criar os tipos de aplicativos que são importantes para eles.
+
+<h4><b>Escolha o .NET quando a produtividade for importante<b><h4>
+Depois de aprender a criar um aplicativo baseado em um modelo de aplicativo, você poderá aplicar facilmente o que aprendeu para criar outro item, mesmo que seja algo baseado em um modelo de aplicativo diferente. Por exemplo, depois que você aprender a criar um aplicativo Web, suas habilidades em .NET possibilitam a criação de um aplicativo móvel.
+
+A reutilização do seu conhecimento reduz o tempo e o estresse envolvidos no aprendizado de um novo modelo ou linguagem de programação. Assim, sua empresa poupa tempo e dinheiro quando você recebe tarefas com novos desafios.
+
+<h4><b>Escolha o .NET para aplicativos de escala corporativa<b><h4>
+O .NET é popular nas empresas por vários motivos. As vantagens incluem o ecossistema dele e a integração com outros produtos da Microsoft, incluindo os serviços de nuvem do Azure e os produtos para servidores locais. Além disso, o .NET é um sistema fortemente tipado, o que evita muitos dos bugs que podem surgir em sistemas sem rigidez de tipos. Os desenvolvedores podem escolher entre um paradigma baseado em objeto em C# ou um paradigma baseado em funcionalidade em F#. Eles usam a linguagem que melhor se adapta aos tipos de problemas que precisam resolver.
+
+Escolher o .NET para aplicativos de protótipo, de inicialização e de pequena escala
+O .NET também é popular para projetos menores devido a um longo histórico de aprimoramentos no design das linguagens, APIs e ferramentas com base na telemetria e nos comentários dos clientes. Você pode usá-lo para desenvolver softwares completos rapidamente para fins de protótipo. Além disso, o .NET pode ser executado em serviços de nuvem e hardware de baixo custo. Ele também tem desempenho superior ao de outras plataformas populares, o que o torna uma ótima opção para empresas startup.
+
+<h4><b>Escolha o .NET para aplicativos de nuvem e de IA<b><h4>
+O SDK do Azure para .NET permite que os desenvolvedores provisionem e gerenciem recursos do Azure. Como alternativa, o Serviço de Aplicativo do Azure e o Azure Functions podem hospedar aplicativos criados usando linguagens .NET.
+
+O ML.NET é uma biblioteca de aprendizado de máquina gratuita para linguagens .NET. Ele habilita recursos baseados em modelo para análise e previsão de aprendizado de máquina.
+
+<h4><b>Escolha o .NET para criar aplicativos de IoT<b><h4>
+Você pode usar o .NET para criar aplicativos de IoT para dispositivos e cenários de IoT. Os aplicativos de IoT geralmente interagem com sensores, telas e dispositivos de entrada que exigem o uso de pinos GPIO (entrada/saída para uso geral), portas seriais ou hardware semelhante. Por exemplo, você pode encontrar bibliotecas que funcionam com painéis populares, como Raspberry Pi e HummingBoard.
  
  
  
