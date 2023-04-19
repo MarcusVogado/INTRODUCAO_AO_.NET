@@ -6,7 +6,7 @@ Depois de 2002, a Microsoft trabalhou para criar uma versão do .NET com compati
 
 Por meio desses esforços, o .NET Core foi introduzido por volta de 2014. A Microsoft manteve o .NET Framework original, mas novos recursos e aprimoramentos foram reservados para o .NET Core. O Core foi posteriormente descartado do nome. As versões principais seguintes foram .NET 5, .NET 6, .NET 7 e assim por diante. As versões geralmente são lançadas em novembro.
 
-Por que é relevante mencionar o histórico do .NET? Porque você provavelmente encontrará postagens no blog, vídeos e código-fonte direcionados ao .NET Framework original. Em alguns casos, as instruções ou o código ainda funcionam, porém, em outros, talvez seja necessário fazer ajustes para se adequar ao novo .NET.
+Por que é relevante mencionar o histórico do .NET? Porque você provavelmente encontrará postagens no blog, vídeos e código-fonte direcionados ao .NET Framework original. Em alguns casos, as instruções ou o código ainda funcionam, porém, em outros, talvez seja necessário fazer ajustes para se adequar ao novo .NET.<br>
             
             <h4><b>OQUE É O .NET? </b></h4>
             
