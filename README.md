@@ -1,5 +1,5 @@
  <h1><b>INTRODUÇÃO AO .NET RESUMO - MARCUS VOGADO</b></h1>
-           <h2><b>HISTÓRICO DO .NET RESUMIDO RETIRADO DA DOCUMENTAÇÃO EM <a href="https://learn.microsoft.com/pt-br/training/modules/dotnet-introduction/2-what-is-dotnet" target="_blank">INTRODUÇÃO AO .NET </a> </b></h2> 
+           <h2><b>HISTÓRICO DO .NET RESUMIDO RETIRADO DA DOCUMENTAÇÃO EM <a href="https://learn.microsoft.com/pt-br/training/modules/dotnet-introduction/2-what-is-dotnet" target="_blank">INTRODUÇÃO AO .NET </a></b></h2> 
             O .NET Framework original foi lançado no início de 2002. Desde então, muitas atualizações e diversas outras funcionalidades foram introduzidas. Depois de anos de aprimoramentos e novos recursos, o .NET Framework original, especialmente as bibliotecas de código-chave, cresceu significativamente.
 
 Depois de 2002, a Microsoft trabalhou para criar uma versão do .NET com compatibilidade entre plataformas. O objetivo era permitir que os desenvolvedores escrevessem uma base de código e a usassem em sistemas operacionais macOS, Linux e Windows.
@@ -8,7 +8,8 @@ Por meio desses esforços, o .NET Core foi introduzido por volta de 2014. A Micr
 
 Por que é relevante mencionar o histórico do .NET? Porque você provavelmente encontrará postagens no blog, vídeos e código-fonte direcionados ao .NET Framework original. Em alguns casos, as instruções ou o código ainda funcionam, porém, em outros, talvez seja necessário fazer ajustes para se adequar ao novo .NET.
             
-            <h4><b>OQUE É .NET?</b></h4><br>             
+            <h4><b>OQUE É O .NET? </b></h4>
+            
 .NET(DOT NET) PODE SER RESUMIDO COMO UM ECOSSISTEMA QUE É COMPOSTO POR MUITAS PARTES E PESSOAS
  QUE FORMAM UM AMBIENTE DE DESENVOLVIMENTO DE APLICATIVOS.<br> 
  
